@@ -1,0 +1,17 @@
+site_name: Wizeline MkDocs Template
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contact: contact-page.md
+  - My Description: description-page.md
+  - Test: test.md
+  - 'First Section':
+    - 'Child': 'child.md'
+    - 'Second Child': 'child2.md'
+
+theme:
+  name: material
+  logo: images/wizeline.png
+
+extra_css:
+  - css/extra.css
