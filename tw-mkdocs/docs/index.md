@@ -1,30 +1,42 @@
-# Index Page
+# Presentation
+**Welcome to my profile!** 
 
-## Wizeline DocOps Template
+I'm happy to have you here, so get comfortable and start reading...
 
-Welcome to the DocOps Template
+## Description
 
-## Adding Information to the Page
+*Let me introduce myself with a very serious description:*
 
-Use Markdown to add information to the pages of your site.
+I am a physicist with a solid background in theory and mathematics, particularly in the fields of Statistics, Stochastic Processes, and Nonlinear Dynamics. 
 
-For example, here is a list:
+I did a French-Italian master's program in **Physics of Complex Systems**, where I got interested in Machine Learning, AI, and Data Science. I also have seven years of experience as a freelance translator for the pharmaceutical industry documentation, and three years of experience with the communication of science. 
 
-1.  Item 1
-2.  Item 2
-3.  Item 3
+I am passionate about languages; I speak English, Spanish, Italian, and French, and my hobby is writing short stories in the languages I master. 
 
-Here is another list:
+## Interests
 
-* Another item
-* Another item
+I am interested mainly in the following things, in order:
 
-## Adding a New Page
+1. Science
+2. Culture
+3. Communication
+4. Documentation
 
-Add new pages to your site doing the following:
+## Organization
 
-1. Create a _.md_ file to the **docs** folder.
-2. Open the **mkdocs.yml** file.
-3. Add the title of the page and the name of the _.md_ file you created under **nav:**.
+I like to organize my time while working as follows:
 
-To learn more about how to write your documents using MkDocs, refer to the official page [Writing your docs](https://www.mkdocs.org/user-guide/writing-your-docs/).
+| Time          |  Activity                    |
+| ------------- | ----------------------------:|
+| Morning       |  Meetings and Standups       |
+| Afternoon     |  Research and Writing        |
+| Evening       |     Study and Relax          |
+
+I wrote this piece of code in my free time, to thank you for the course!
+
+```python
+docOps = "Cool course!"
+print docOps
+```
+
+You can know more about me at my [LinkedIn Profile](https://www.linkedin.com/in/evelyn-camacho-soberon/).

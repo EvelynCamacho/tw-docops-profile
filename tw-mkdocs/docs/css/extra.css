@@ -9,23 +9,28 @@
 /* Main Header */
 .md-header {
     color: rgb(255, 255, 255);
-    background-color: rgba(211, 32, 32, 0.5);
+    background-color: rgb(244, 175, 27);
+}
+
+.md-ellipsis {
+    color: rgb(4, 39, 136);
+    font-weight: 500;
 }
 
 /* Main background*/
 .md-main {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(247, 238, 226, 0.171);
 }
 
 /* Headings  h1 */
 .md-typeset h1 {
- color: rgba(241, 57, 57, 0.822);
- font-weight: 300;
+ color: rgb(8, 58, 197);
+ font-weight: 400;
 /* font-family: Arial, Helvetica, sans-serif;
 */}
 /* Headings  h2 */
 .md-typeset h2 {
-    color: rgba(165, 113, 1, 0.849);
+    color: rgb(4, 39, 136);
     font-weight: bold;
 /*    font-size: x-large;
     font-weight: 400;
@@ -44,7 +49,7 @@ ul {
 
 /* Sorted list */
 ol {
-    color: rgb(88, 84, 84);
+    color: rgb(4, 39, 136);
 }
 
 /* Links 
@@ -61,7 +66,7 @@ a:active - a link the moment it is clicked */
 }
 
 .md-typeset a:hover {
-    color: darkred;
+    color: rgb(139, 95, 0);
     cursor: pointer;
 }
 
@@ -94,7 +99,7 @@ a:active - a link the moment it is clicked */
 
 /* Footer */
 .md-footer {
-    background-color: rgb(75, 75, 75);
+    background-color: rgba(244, 175, 27, 0.644);
 }
 
 /* Below Footer */
@@ -105,10 +110,7 @@ a:active - a link the moment it is clicked */
 .md-footer__direction {
     color: white;
 }
-/* Name of the following and previous pages */
-.md-ellipsis {
-    color: rgb(0, 0, 0);
-}
+
 
 
 

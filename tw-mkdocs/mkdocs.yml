@@ -1,13 +1,13 @@
-site_name: Wizeline MkDocs Template
+site_name: Evelyn's Technical Writer Profile
 nav:
-  - Home: index.md
-  - About: about.md
+  - About: index.md
+  - 'Experience':
+    - 'Education': 'education.md'
+    - 'Work': 'work.md'
+  - Skills: skills.md
+  - Selected Past Work: selected.md
   - Contact: contact-page.md
-  - My Description: description-page.md
-  - Test: test.md
-  - 'First Section':
-    - 'Child': 'child.md'
-    - 'Second Child': 'child2.md'
+
 
 theme:
   name: material
