@@ -1,5 +1,6 @@
 # Contact
 
-Please contact me if you need help with MkDocs! :P
+Please reach me at any of these addresses in case of interest!
 
-@EvelynCS - Wizeline
+- [LinkedIn](https://www.linkedin.com/in/evelyn-camacho-soberon/)
+- <evelyn.camacho@wizeline.com>
