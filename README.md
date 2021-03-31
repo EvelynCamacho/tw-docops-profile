@@ -165,7 +165,7 @@ git checkout gh-pages
 7. Execute the following command.
 
 ```
-docker run --rm --volume="$PWD:/app" -it tw-mkdocs-img:latest mkdocs build && ( cd .. && cp -r tw-mkdocs/site docs )
+docker run --rm --volume="$PWD:/app" -it tw-mkdocs-img:latest mkdocs build && ( cd .. && cp -r tw-mkdocs/site/ docs )
 ```
 
 8. Add the changes to git.
