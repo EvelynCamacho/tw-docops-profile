@@ -53,5 +53,5 @@ Locate the wizeline-mkdocs-template container and start it
 
 2. Execute the following command
 ```
-docker run --rm --volume="$PWD:/app" -it tw-mkdocs-img:latest mkdocs build
+docker run --rm --volume="$PWD:/app" -it tw-mkdocs-img:latest mkdocs build && ( cd .. && cp -r tw-mkdocs/site/ docs )
 ```
