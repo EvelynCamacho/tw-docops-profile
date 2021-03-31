@@ -10,4 +10,4 @@ My work experience is the following:
 
 - **Freelance Translator**, SEI, SC _(January 2013 - January 2020)_
 
-![Work](/images/work.jpeg)
+![Work](images/work.jpeg)
